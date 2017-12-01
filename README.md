@@ -7,13 +7,13 @@
 
 
 
-# ~~paizajack.pl~~
+## ~~paizajack.pl~~
 
 工事中（この項目が1番上にある時点でお察しください）
 
 
 
-# sample_code.pl
+## sample_code.pl
 
 paizajackが生成するような、本当にシンプルなサンプルコードです。
 
@@ -21,7 +21,7 @@ paizajackが生成するような、本当にシンプルなサンプルコー�
 
 
 
-# paizajack_sample.pl
+## paizajack_sample.pl
 
 sample_code.plの一部をモジュール化したようなサンプルコードです。
 
@@ -29,6 +29,6 @@ sample_code.plの一部をモジュール化したようなサンプルコード
 
 
 
-# MIT License
+## MIT License
 
 このコードはMIT Licenseで管理しています（正直意味はわかっていません）。
