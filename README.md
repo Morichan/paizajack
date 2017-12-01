@@ -7,7 +7,7 @@
 
 
 
-# paizajack.pl
+# ~~paizajack.pl~~
 
 工事中（この項目が1番上にある時点でお察しください）
 
